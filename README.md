@@ -27,5 +27,6 @@
 - 📫 E-mail: **leonardo.fleitas.sk@gmail.com** 
 - 📲 Cellphone: **+54 9 11-6839-3807**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abfleitas&show_icons=true&locale=en&layout=compact" alt="abfleitas" /></p>
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abfleitas&show_icons=true&locale=en" alt="abfleitas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abfleitas&" alt="abfleitas" /></p>
